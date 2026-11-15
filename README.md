@@ -27,3 +27,9 @@ From the repository root, run `python3 mission-05-numbers-data/number_converter.
 This project connects everyday computer use to the systems underneath it. Small, reversible Terminal exercises show how files and processes are managed; the Python exercises show how number representations can be checked; and Git provides a history of the work.
 
 Each mission is documented and committed separately. Personal account, device, and network identifiers are omitted from the public notes.
+
+## My Learning
+
+- I learned to trace a computer task from input through processing and output to storage.
+- I practised safe Terminal file operations and used Python to check number conversions.
+- I learned that Git commits record checkpoints, while branches and Pull Requests give changes a reviewable path into the main branch.
